@@ -1,6 +1,7 @@
 # 💫 About Me:
+*Vitor Augusto Gonçalves Reis*
+🐱‍👤 I’m looking to collaborate on <br>Software developer<br>
 
-👯 I’m looking to collaborate on <br>Software developer<br>
 
 
 ## 🌐 Socials:
