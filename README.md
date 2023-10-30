@@ -1,6 +1,6 @@
 # 💫 About Me:
 *Vitor Augusto Gonçalves Reis* <br><br>
-**graduation**
+**Graduation:**
 * Graduated in IT Maintenance and Support
 * Studying Computer Engineering
 <br>
