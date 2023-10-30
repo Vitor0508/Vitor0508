@@ -1,10 +1,11 @@
 # 💫 About Me:
 *Vitor Augusto Gonçalves Reis* <br>
+
 🐱‍👤 I’m looking to collaborate on <br>Software developer<br> Cybersecurity
 
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vitoraugusto.gr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vitor-augusto-gon-174298221) 
 
 # 💻 Tech Stack:
