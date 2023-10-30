@@ -1,5 +1,7 @@
 # 💫 About Me:
 *Vitor Augusto Gonçalves Reis* <br>
+* Graduated in IT Maintenance and Support
+* Studying Computer Engineering
 
 🐱‍👤 I’m looking to collaborate on <br>Software developer<br> Cybersecurity
 
