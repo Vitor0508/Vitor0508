@@ -1,5 +1,5 @@
 # 💫 About Me:
-*Vitor Augusto Gonçalves Reis* <br>
+*Vitor Augusto Gonçalves Reis* <br><br>
 * Graduated in IT Maintenance and Support
 * Studying Computer Engineering
 
